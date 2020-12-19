@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4004cd43-50e8-4aee-a52e-7b6008be53c4" name="Default Changelist" comment="удалил" />
+    <list default="true" id="4004cd43-50e8-4aee-a52e-7b6008be53c4" name="Default Changelist" comment="добавил" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lYCRRNwvTmWxQPXQjXFDhoheWX" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -30,7 +30,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607769003669</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="добавил">
+      <created>1608367679484</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608367679484</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +126,8 @@
     <MESSAGE value="Test file1235" />
     <MESSAGE value="Test file12356" />
     <MESSAGE value="удалил" />
-    <option name="LAST_COMMIT_MESSAGE" value="удалил" />
+    <MESSAGE value="добавил" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607766432509">
@@ -131,10 +138,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607766527491" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607769007715">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1608368005026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607769007715" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608368005026" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1607764922476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

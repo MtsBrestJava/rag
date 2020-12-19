@@ -15,6 +15,7 @@ import java.util.Scanner;
             String fin;
             String someString1;
             int pricet;
+            int pricet1;
             int romt;
             int ramt;
             int screent;
