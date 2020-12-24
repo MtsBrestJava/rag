@@ -10,11 +10,94 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4004cd43-50e8-4aee-a52e-7b6008be53c4" name="Default Changelist" comment="добавил" />
+    <list default="true" id="4004cd43-50e8-4aee-a52e-7b6008be53c4" name="Default Changelist" comment="добавил">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/mts/brest/java/LehaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/java_mts_brest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/mtsbrest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Homework/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Homework/HumanMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson10_Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson5_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson6_input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson7_readFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson7_readFile_compacted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson8_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson9/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson9/Lesson9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson9/Lesson9_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/Lesson9/Lesson9_class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/HumanMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/MtsTechSecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/another2Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/anotherMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/mtsSale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/mtsTech$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/classes_deeper/mtsTech.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/others/Array2d_3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/others/job1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/others/jobAragoz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/others/magazine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/others/vyvodyNaEkran.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/our_classes/BaseStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/our_classes/EmployeeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/our_classes/EmployeeProdazhi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/our_classes/EmployeeTeh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/our_classes/EmployeeTehOutsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/out/production/mtsbrest/by/mts/brest/java/our_classes/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Homework/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson10_Exceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson5_ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson6_input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson7_readFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson7_readFile_compacted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson8_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson9/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson9/Lesson9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson9/Lesson9_class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/Lesson9/Lesson9_class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/classes_deeper/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/classes_deeper/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/classes_deeper/another2Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/classes_deeper/anotherMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/classes_deeper/mtsSale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/classes_deeper/mtsTech.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/others/Array2d_3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/others/job1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/others/jobAragoz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/others/magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/others/vyvodyNaEkran.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/BaseStation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/EmployeeMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/EmployeeProdazhi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/EmployeeTeh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/EmployeeTehOutsc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_mts_brest/src/by/mts/brest/java/our_classes/magazine_structure.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +114,9 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,10 +220,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607766432509" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607766527491">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1608802018254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607766527491" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608802018254" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1608801967347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608801967347" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1608368005026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
