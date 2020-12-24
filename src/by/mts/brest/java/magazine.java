@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 
     public class magazine {
-
+        //ывывы
         public static void main(String[] args) throws IOException {
             String fin;
             String someString1;
