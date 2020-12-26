@@ -19,18 +19,6 @@ package by.mts.brest.java;
 
         }
 
-        @Override
-        public String toString() {
-            return "magazine_structure{" +
-                    "price=" + price +
-                    ", rom=" + rom +
-                    ", ram=" + ram +
-                    ", screen=" + screen +
-                    ", color='" + color + '\'' +
-                    ", name='" + name + '\'' +
-                    '}';
-        }
-
         public magazine_structure(String name, String color, int price, int rom, int ram, int screen) {
             this.name = name;
             this.color = color;
