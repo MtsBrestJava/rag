@@ -14,7 +14,7 @@ import java.util.Scanner;
 
         public static void main(String[] args) throws IOException {
             String fin;
-            String someString1;
+            String someString1 = "";
             int pricet = 0;
             int romt = 0;
             int ramt = 0;
@@ -32,24 +32,29 @@ import java.util.Scanner;
                 System.out.println(ex.getMessage());
             }
             Scanner in = new Scanner(System.in);    // Объявляем сканер строки
-            while (true) {
+            while (!someString1.contains("stop")) {
                 System.out.println("Enter Your Command 1;2;3;4;5");
                 someString1 = in.nextLine();     // Ожидаем ввод СТРОКИ, пишем его в someString
-                if (someString1.contains("stop")) {
+                /*if (someString1.contains("stop")) {
                     break;
-                } else if (someString1.contains("1")) {
+                } else */if (someString1.contains("1")) {
                     while (true) {
                         System.out.print("Enter product name: ");
                         namet = in.nextLine();
                         System.out.print("Enter color produkt: ");
                         colort = in.nextLine();
 
-                        try {
-                            System.out.print("Enter price of produkt: ");
-                            pricet = in.nextInt();
-                        } catch (InputMismatchException ex) {
-                            System.out.println("Неверный ввод!!");
+                        while(pricet <= 0) {
+                            try {
+                                System.out.print("Enter price of produkt: ");
+                                pricet = in.nextInt();
+                                // vvedite chislo: 5\n\r
+                                } catch (InputMismatchException ex) {
+                                System.out.println("Неверный ввод!!");
+                                //in.nextLine();
+                            }
                         }
+
                         try {
                             System.out.print("Enter rom of produkt: ");
                             romt = in.nextInt();
@@ -62,12 +67,16 @@ import java.util.Scanner;
                         } catch (InputMismatchException ex) {
                             System.out.println("Неверный ввод!!");
                         }
-                        try {
-                            System.out.print("Enter inh of display: ");
-                            screent = in.nextInt();
-                        } catch (InputMismatchException ex) {
-                            System.out.println("Неверный ввод!!");
+                        while(screent == 0) {
+                            try {
+                                System.out.print("Enter inh of display: ");
+                                screent = in.nextInt();
+                            } catch (InputMismatchException ex) {
+                                System.out.println("Неверный ввод!!");
+                                in.nextLine();
+                            }
                         }
+
                         magazine_structure tovar = new magazine_structure(namet, colort, pricet, romt, ramt, screent);
                         sku.add(tovar);
                         in.nextLine();
@@ -94,10 +103,11 @@ import java.util.Scanner;
                         }
 
                     }
-
                 }
-
-                private static void printmagazine_structure (ArrayList < magazine_structure > Arraysku) {
+            }
+            in.close();
+        }
+                private static void printmagazine_structure(ArrayList < magazine_structure > Arraysku) {
 
                     // классический способ вывода списка:
                     int i;
@@ -121,8 +131,7 @@ import java.util.Scanner;
                 //            this.price = price;
                 //            this.color = color;
                 //  коммит rjvvbbn jgyg ghgufutfu
-            }
-        }
+
     }
 
 
